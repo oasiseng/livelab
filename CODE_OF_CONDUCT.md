@@ -32,7 +32,7 @@ We are not just building code — we are prototyping a better world. That requir
 
 If you experience or witness behavior that violates this Code, please contact us immediately at:
 
-📧 **conduct@livelab.house** *(or use [issues](https://github.com/livelab/issues) if comfortable)*
+📧 **TBD@email.com** *(or use [issues](https://github.com/livelab/issues) if comfortable)*
 
 All reports will be handled respectfully, confidentially, and seriously.
 
