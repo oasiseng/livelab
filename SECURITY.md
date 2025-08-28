@@ -5,7 +5,7 @@
 We take security seriously. If you discover a potential vulnerability or exploit in this repository — whether related to data privacy, software logic, or infrastructure — please report it responsibly.
 
 **To report a security issue:**
-- Email: security@livelab.network (or your preferred contact)
+- Email: TBD (or your preferred contact)
 - Do **not** open public GitHub issues for sensitive disclosures
 - Provide a clear description, steps to reproduce (if applicable), and suggested mitigations
 
