@@ -1,7 +1,7 @@
 # 🧠 Live Lab Housing Protocol™  
 *Turn your house into a platform. Trade data for rent relief. Build the future of human-AI symbiosis.*
 
-![Live Lab Banner](banner-image-placeholder.png)
+![Live Lab Banner](livelab1.png)
 
 ## 🚀 Overview
 
